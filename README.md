@@ -1,7 +1,7 @@
 # Portfolio Website.
 Web Portfolio to showcase projects and skills in better manner. 
 
-###### https://geetikakeim.github.io/
+###### https://geetika04.github.io/geetikakeim.github.io/
 
 ------------------------------------------------------------------
 To setup the project on your local machine:
